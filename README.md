@@ -1,3 +1,14 @@
+
+#修改说明
+
+#该版本为个人修改版，如需官方，请到官方github
+
+#修改了 GPU 中kinfu_large_scale模块的kinfuLS_app.cpp
+
+#增加了 openni2LS.cpp
+
+
+
 # Point Cloud Library
 
 <img src="http://ns50.pointclouds.org/assets/images/contents/logos/pcl/pcl_horz_large_pos.png" align="center" height="100">
